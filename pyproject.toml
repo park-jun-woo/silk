@@ -1,0 +1,16 @@
+[project]
+name = "silk"
+version = "0.1.0"
+description = "Symbolic Index for LLM Knowledge"
+requires-python = ">=3.10"
+dependencies = [
+    "numpy",
+]
+
+[project.optional-dependencies]
+bench = ["faiss-cpu"]
+notebooks = ["jupyter", "matplotlib"]
+
+[build-system]
+requires = ["setuptools>=68.0"]
+build-backend = "setuptools.backends._legacy:_Backend"
