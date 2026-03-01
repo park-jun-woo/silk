@@ -239,7 +239,7 @@ silk/
 │   ├── valid.py    # VALID verification
 │   ├── search.py   # NumPy bit AND
 │   └── query.py    # query → mask/pattern
-├── data/           # Codebooks, mapping tables (geul-sidx outputs)
+├── data/           # Codebooks, mapping tables (GEUL outputs)
 ├── scripts/        # Data pipelines
 ├── index/          # Generated index (gitignored)
 ├── benchmarks/     # FAISS comparison benchmarks

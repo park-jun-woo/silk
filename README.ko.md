@@ -237,7 +237,7 @@ silk/
 │   ├── valid.py    # VALID 검증
 │   ├── search.py   # NumPy 비트 AND
 │   └── query.py    # 쿼리 → mask/pattern
-├── data/           # 코드북, 매핑 테이블 (geul-sidx 산출물)
+├── data/           # 코드북, 매핑 테이블 (GEUL 산출물)
 ├── scripts/        # 데이터 파이프라인
 ├── index/          # 생성된 인덱스 (gitignored)
 ├── benchmarks/     # FAISS 비교 벤치마크
