@@ -1,0 +1,90 @@
+NOTICE
+
+SILK: Symbolic Index for LLM Knowledge
+Copyright (c) 2026 Park Jun Woo
+Licensed under the MIT License. See LICENSE file.
+
+Part of the GEUL project (https://geul.org).
+
+================================================================================
+
+This project uses or derives from the following third-party resources:
+
+--------------------------------------------------------------------------------
+WordNet 3.0
+--------------------------------------------------------------------------------
+
+The verb codebook in this project is derived from WordNet synsets
+(13,767 verb synsets mapped to a 16-bit codebook via geul-verb).
+
+WordNet Release 3.0
+
+This software and database is being provided to you, the LICENSEE, by
+Princeton University under the following license. By obtaining, using
+and/or copying this software and database, you agree that you have
+read, understood, and will comply with these terms and conditions.:
+
+Permission to use, copy, modify and distribute this software and
+database and its documentation for any purpose and without fee or
+royalty is hereby granted, provided that you agree to comply with the
+following copyright notice and statements, including the disclaimer,
+and that the same appear on ALL copies of the software, database and
+documentation, including modifications that you make for internal use
+or for distribution.
+
+WordNet 3.0 Copyright 2006 by Princeton University. All rights reserved.
+
+THIS SOFTWARE AND DATABASE IS PROVIDED "AS IS" AND PRINCETON UNIVERSITY
+MAKES NO REPRESENTATIONS OR WARRANTIES, EXPRESS OR IMPLIED. BY WAY OF
+EXAMPLE, BUT NOT LIMITATION, PRINCETON UNIVERSITY MAKES NO
+REPRESENTATIONS OR WARRANTIES OF MERCHANTABILITY OR FITNESS FOR ANY
+PARTICULAR PURPOSE OR THAT THE USE OF THE LICENSED SOFTWARE, DATABASE
+OR DOCUMENTATION WILL NOT INFRINGE ANY THIRD PARTY PATENTS, COPYRIGHTS,
+TRADEMARKS OR OTHER RIGHTS.
+
+The name of Princeton University or Princeton may not be used in
+advertising or publicity pertaining to distribution of the software
+and/or database. Title to copyright in this software, database and any
+associated documentation shall at all times remain with Princeton
+University and LICENSEE agrees to preserve same.
+
+https://wordnet.princeton.edu
+
+--------------------------------------------------------------------------------
+Wikidata
+--------------------------------------------------------------------------------
+
+Entity data (108.8M entities, labels, descriptions, triples) is sourced
+from Wikidata, a free and open knowledge base maintained by the
+Wikimedia Foundation.
+
+Wikidata content is available under the Creative Commons CC0 1.0
+Universal Public Domain Dedication.
+
+https://www.wikidata.org
+
+--------------------------------------------------------------------------------
+GDELT (Global Database of Events, Language, and Tone)
+--------------------------------------------------------------------------------
+
+Event data is sourced from the GDELT Project, an open platform
+monitoring world events in real-time.
+
+GDELT data is freely available with attribution requested.
+
+Leetaru, Kalev, and Philip A. Schrodt. "GDELT: Global Data on Events,
+Location, and Tone, 1979-2012." ISA Annual Convention, 2013.
+
+https://www.gdeltproject.org
+
+--------------------------------------------------------------------------------
+CAMEO (Conflict and Mediation Event Observations)
+--------------------------------------------------------------------------------
+
+Event type coding follows the CAMEO taxonomy, mapped to WordNet synsets
+for SIDX verb encoding.
+
+Schrodt, Philip A. "CAMEO: Conflict and Mediation Event Observations
+Event and Actor Codebook." Pennsylvania State University, 2012.
+
+http://eventdata.parusanalytics.com/data.dir/cameo.html

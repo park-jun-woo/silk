@@ -4,6 +4,8 @@
 
 Search with 64-bit integers. No vector DB, no ANN graph, no embedding model.
 
+Part of the [GEUL](https://geul.org) project.
+
 > [Korean version (한국어)](README.ko.md)
 
 ## Core Thesis
